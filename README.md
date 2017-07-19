@@ -1,0 +1,2 @@
+# Classifying_Complaint_Types
+This project performs text classification on a dataset of complaints about traffic conditions to the city of Boston. You can find the data here: https://data.boston.gov/dataset/vision-zero-entry There are two goals: First, try to predict the type of complaint (“REQUESTTYPE”) from the complaint text. Second, try to come up with a better categorization of the data into semantic categories.
